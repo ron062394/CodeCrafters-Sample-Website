@@ -35,7 +35,7 @@ nav ul li a {
     margin: 0 auto;
 }
 
-section {
+div {
     margin-bottom: 40px;
 }
 
@@ -74,7 +74,7 @@ h2 {
 
 
 
-.class-name {
+.services {
     color: #d9534f;
     background-color: #f9d6d5;
     padding: 10px;
@@ -94,20 +94,8 @@ h2 {
     color: green;
 }
 
-a:hover {
-    color: red;
-}
-
-a:link {
+.email {
     color: green;
-}
-
-a:active {
-    color: yellow;
-}
-
-a:visited {
-    color: pink;
 }
 
 .box1, .box2, .box3, .box4 {
